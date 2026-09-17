@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Library\\PackageCache\\com.unity.inputsystem@1.5.1\\InputSystem\\Utilities\\CSharpCodeHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.inputsystem@1.5.1\\InputSystem\\Utilities\\CSharpCodeHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762D6A8A-40EA-0BCC-90CF-8BC236D89FD1}|ScriptableWidget.Editor.csproj|d:\\unityprojects\\scriptable-animation-system-main\\ptixiaki\\assets\\kinemation\\scriptablewidget\\scriptablewidget.editor.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{762D6A8A-40EA-0BCC-90CF-8BC236D89FD1}|ScriptableWidget.Editor.csproj|solutionrelative:assets\\kinemation\\scriptablewidget\\scriptablewidget.editor.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D9B370-FC39-4256-09A3-566C7DF064AF}|FPSAnimationFramework.Runtime.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\kinemation\\fpsanimationframework\\runtime\\core\\fpsbonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D9B370-FC39-4256-09A3-566C7DF064AF}|FPSAnimationFramework.Runtime.csproj|solutionrelative:assets\\kinemation\\fpsanimationframework\\runtime\\core\\fpsbonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5071A9B-5C74-F2CA-0248-07B05E91EBDE}|KAnimationCore.Runtime.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\kinemation\\kanimationcore\\runtime\\input\\userinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5071A9B-5C74-F2CA-0248-07B05E91EBDE}|KAnimationCore.Runtime.csproj|solutionrelative:assets\\kinemation\\kanimationcore\\runtime\\input\\userinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D9B370-FC39-4256-09A3-566C7DF064AF}|FPSAnimationFramework.Runtime.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\kinemation\\fpsanimationframework\\runtime\\playables\\fpsplayablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D9B370-FC39-4256-09A3-566C7DF064AF}|FPSAnimationFramework.Runtime.csproj|solutionrelative:assets\\kinemation\\fpsanimationframework\\runtime\\playables\\fpsplayablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D9B370-FC39-4256-09A3-566C7DF064AF}|FPSAnimationFramework.Runtime.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\kinemation\\fpsanimationframework\\runtime\\camera\\fpscameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D9B370-FC39-4256-09A3-566C7DF064AF}|FPSAnimationFramework.Runtime.csproj|solutionrelative:assets\\kinemation\\fpsanimationframework\\runtime\\camera\\fpscameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Library\\PackageCache\\com.unity.inputsystem@1.5.1\\InputSystem\\Plugins\\PlayerInput\\PlayerInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.inputsystem@1.5.1\\InputSystem\\Plugins\\PlayerInput\\PlayerInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\demo\\scripts\\runtime\\character\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\demo\\scripts\\runtime\\character\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762D6A8A-40EA-0BCC-90CF-8BC236D89FD1}|ScriptableWidget.Editor.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\kinemation\\scriptablewidget\\scriptablecomponenteditorwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762D6A8A-40EA-0BCC-90CF-8BC236D89FD1}|ScriptableWidget.Editor.csproj|solutionrelative:assets\\kinemation\\scriptablewidget\\scriptablecomponenteditorwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\demo\\scripts\\runtime\\item\\fpsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\demo\\scripts\\runtime\\item\\fpsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D9B370-FC39-4256-09A3-566C7DF064AF}|FPSAnimationFramework.Runtime.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\kinemation\\fpsanimationframework\\runtime\\recoil\\recoilpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D9B370-FC39-4256-09A3-566C7DF064AF}|FPSAnimationFramework.Runtime.csproj|solutionrelative:assets\\kinemation\\fpsanimationframework\\runtime\\recoil\\recoilpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58449438-CDA1-61D1-AF4B-43C19434E81B}|RecoilAnimation.Runtime.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\kinemation\\proceduralrecoilanimationsystem\\runtime\\recoilanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58449438-CDA1-61D1-AF4B-43C19434E81B}|RecoilAnimation.Runtime.csproj|solutionrelative:assets\\kinemation\\proceduralrecoilanimationsystem\\runtime\\recoilanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D9B370-FC39-4256-09A3-566C7DF064AF}|FPSAnimationFramework.Runtime.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\kinemation\\fpsanimationframework\\runtime\\core\\fpsanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D9B370-FC39-4256-09A3-566C7DF064AF}|FPSAnimationFramework.Runtime.csproj|solutionrelative:assets\\kinemation\\fpsanimationframework\\runtime\\core\\fpsanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\scripts\\medkitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\medkitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\scripts\\medkitpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\medkitpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\scripts\\zombiehp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiehp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\demo\\scripts\\runtime\\item\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\demo\\scripts\\runtime\\item\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\scripts\\playerhealthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\scripts\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\scripts\\bulletdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\scripts\\adaptivespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\adaptivespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\assets\\scripts\\adaptivedifficultymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620255B0-AD73-E3CF-FDF8-7D8B9E1B9D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\adaptivedifficultymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\ZombieHealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ZombieHealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScriptableWidget.Editor.asmdef",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\ScriptableWidget\\ScriptableWidget.Editor.asmdef",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\ScriptableWidget\\ScriptableWidget.Editor.asmdef",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\ScriptableWidget\\ScriptableWidget.Editor.asmdef",
+              "RelativeToolTip": "Assets\\KINEMATION\\ScriptableWidget\\ScriptableWidget.Editor.asmdef",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2025-07-23T20:36:59.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInputController.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\KAnimationCore\\Runtime\\Input\\UserInputController.cs",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\KAnimationCore\\Runtime\\Input\\UserInputController.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\KAnimationCore\\Runtime\\Input\\UserInputController.cs",
+              "RelativeToolTip": "Assets\\KINEMATION\\KAnimationCore\\Runtime\\Input\\UserInputController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:36:37.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FPSCameraController.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Camera\\FPSCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Camera\\FPSCameraController.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Camera\\FPSCameraController.cs",
+              "RelativeToolTip": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Camera\\FPSCameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:34:08.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSharpCodeHelpers.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Library\\PackageCache\\com.unity.inputsystem@1.5.1\\InputSystem\\Utilities\\CSharpCodeHelpers.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@1.5.1\\InputSystem\\Utilities\\CSharpCodeHelpers.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Library\\PackageCache\\com.unity.inputsystem@1.5.1\\InputSystem\\Utilities\\CSharpCodeHelpers.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.inputsystem@1.5.1\\InputSystem\\Utilities\\CSharpCodeHelpers.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAcwFYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:33:09.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Library\\PackageCache\\com.unity.inputsystem@1.5.1\\InputSystem\\Plugins\\PlayerInput\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@1.5.1\\InputSystem\\Plugins\\PlayerInput\\PlayerInput.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Library\\PackageCache\\com.unity.inputsystem@1.5.1\\InputSystem\\Plugins\\PlayerInput\\PlayerInput.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.inputsystem@1.5.1\\InputSystem\\Plugins\\PlayerInput\\PlayerInput.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:27:26.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FPSItem.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Demo\\Scripts\\Runtime\\Item\\FPSItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Demo\\Scripts\\Runtime\\Item\\FPSItem.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Demo\\Scripts\\Runtime\\Item\\FPSItem.cs",
+              "RelativeToolTip": "Assets\\Demo\\Scripts\\Runtime\\Item\\FPSItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:06:22.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScriptableComponentEditorWindow.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\ScriptableWidget\\ScriptableComponentEditorWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\ScriptableWidget\\ScriptableComponentEditorWindow.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\ScriptableWidget\\ScriptableComponentEditorWindow.cs",
+              "RelativeToolTip": "Assets\\KINEMATION\\ScriptableWidget\\ScriptableComponentEditorWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:55:27.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FPSController.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Demo\\Scripts\\Runtime\\Character\\FPSController.cs",
+              "RelativeDocumentMoniker": "Assets\\Demo\\Scripts\\Runtime\\Character\\FPSController.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Demo\\Scripts\\Runtime\\Character\\FPSController.cs",
+              "RelativeToolTip": "Assets\\Demo\\Scripts\\Runtime\\Character\\FPSController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAYwJgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:39:17.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecoilAnimation.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\ProceduralRecoilAnimationSystem\\Runtime\\RecoilAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\ProceduralRecoilAnimationSystem\\Runtime\\RecoilAnimation.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\ProceduralRecoilAnimationSystem\\Runtime\\RecoilAnimation.cs",
+              "RelativeToolTip": "Assets\\KINEMATION\\ProceduralRecoilAnimationSystem\\Runtime\\RecoilAnimation.cs",
+              "ViewState": "AQIAABYCAAAAAAAAAAAYwEAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:37:57.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FPSBoneController.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Core\\FPSBoneController.cs",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Core\\FPSBoneController.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Core\\FPSBoneController.cs",
+              "RelativeToolTip": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Core\\FPSBoneController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:37:43.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FPSPlayablesController.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Playables\\FPSPlayablesController.cs",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Playables\\FPSPlayablesController.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Playables\\FPSPlayablesController.cs",
+              "RelativeToolTip": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Playables\\FPSPlayablesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:37:15.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FPSAnimator.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Core\\FPSAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Core\\FPSAnimator.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Core\\FPSAnimator.cs",
+              "RelativeToolTip": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Core\\FPSAnimator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:33:02.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecoilPattern.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Recoil\\RecoilPattern.cs",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Recoil\\RecoilPattern.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Recoil\\RecoilPattern.cs",
+              "RelativeToolTip": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Recoil\\RecoilPattern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:32:30.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedkitManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\MedkitManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MedkitManager.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\MedkitManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MedkitManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:15:30.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T18:59:15.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MedkitPickup.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\MedkitPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MedkitPickup.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\MedkitPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MedkitPickup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:22:11.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Demo\\Scripts\\Runtime\\Item\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Demo\\Scripts\\Runtime\\Item\\Weapon.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Demo\\Scripts\\Runtime\\Item\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Demo\\Scripts\\Runtime\\Item\\Weapon.cs",
+              "ViewState": "AQIAAEABAAAAAAAAAAAkwDMBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:45:21.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUI.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:15:43.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:39:27.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlayerHealthUI.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\PlayerHealthUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealthUI.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\PlayerHealthUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealthUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:12:21.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BulletDamage.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\BulletDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletDamage.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\BulletDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletDamage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:00:55.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ZombieAI.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\ZombieAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieAI.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\ZombieAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieAI.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:24:18.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ZombieHP.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\ZombieHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieHP.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\ZombieHP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieHP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:08:09.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdaptiveSpawner.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\AdaptiveSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AdaptiveSpawner.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\AdaptiveSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AdaptiveSpawner.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:07:00.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WaveManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\WaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveManager.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\WaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:06:37.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdaptiveDifficultyManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\AdaptiveDifficultyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AdaptiveDifficultyManager.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\AdaptiveDifficultyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AdaptiveDifficultyManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:05:37.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ZombieHealthBar.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\ZombieHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieHealthBar.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\Ptixiaki\\Assets\\Scripts\\ZombieHealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieHealthBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:23:34.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

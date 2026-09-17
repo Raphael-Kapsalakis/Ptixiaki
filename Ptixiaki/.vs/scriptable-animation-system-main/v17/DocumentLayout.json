@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|d:\\unityprojects\\scriptable-animation-system-main\\scriptable-animation-system-main\\assets\\scripts\\weaponui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\assets\\demo\\scripts\\runtime\\character\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|solutionrelative:assets\\demo\\scripts\\runtime\\character\\fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7E7243-2185-02EE-B365-DE158217DCB4}|FPSAnimationFramework.Runtime.csproj|d:\\unityprojects\\scriptable-animation-system-main\\scriptable-animation-system-main\\assets\\kinemation\\fpsanimationframework\\runtime\\playables\\fpsplayablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7E7243-2185-02EE-B365-DE158217DCB4}|FPSAnimationFramework.Runtime.csproj|solutionrelative:assets\\kinemation\\fpsanimationframework\\runtime\\playables\\fpsplayablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\assets\\demo\\scripts\\runtime\\item\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|solutionrelative:assets\\demo\\scripts\\runtime\\item\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\unityprojects\\scriptable-animation-system-main\\scriptable-animation-system-main\\assets\\scripts\\waponui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\waponui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\assets\\scripts\\bulletdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24647DC8-22A4-51F6-5343-D95EB688C757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FPSPlayablesController.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Playables\\FPSPlayablesController.cs",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Playables\\FPSPlayablesController.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Playables\\FPSPlayablesController.cs",
+              "RelativeToolTip": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Playables\\FPSPlayablesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:50:25.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeaponUI.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Scripts\\WeaponUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponUI.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Scripts\\WeaponUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponUI.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:48:42.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WaponUI.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Scripts\\WaponUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaponUI.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Scripts\\WaponUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaponUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:37:41.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:54:45.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BulletDamage.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Scripts\\BulletDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletDamage.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Scripts\\BulletDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletDamage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:37:17.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:47:03.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZombieAI.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Scripts\\ZombieAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieAI.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Scripts\\ZombieAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieAI.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:45:16.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FPSController.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Demo\\Scripts\\Runtime\\Character\\FPSController.cs",
+              "RelativeDocumentMoniker": "Assets\\Demo\\Scripts\\Runtime\\Character\\FPSController.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Demo\\Scripts\\Runtime\\Character\\FPSController.cs",
+              "RelativeToolTip": "Assets\\Demo\\Scripts\\Runtime\\Character\\FPSController.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAADwv9kAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:44:41.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Demo\\Scripts\\Runtime\\Item\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Demo\\Scripts\\Runtime\\Item\\Weapon.cs",
+              "ToolTip": "D:\\UnityProjects\\scriptable-animation-system-main\\scriptable-animation-system-main\\Assets\\Demo\\Scripts\\Runtime\\Item\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Demo\\Scripts\\Runtime\\Item\\Weapon.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:32:42.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
